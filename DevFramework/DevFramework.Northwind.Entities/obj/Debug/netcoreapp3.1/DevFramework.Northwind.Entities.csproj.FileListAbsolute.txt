@@ -1,0 +1,15 @@
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.deps.json
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.runtimeconfig.json
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.runtimeconfig.dev.json
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.dll
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.pdb
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Core.dll
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\bin\Debug\netcoreapp3.1\DevFramework.Core.pdb
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.AssemblyInfo.cs
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.csproj.CopyComplete
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.dll
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.pdb
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Northwind.Entities\obj\Debug\netcoreapp3.1\DevFramework.Northwind.Entities.genruntimeconfig.cache

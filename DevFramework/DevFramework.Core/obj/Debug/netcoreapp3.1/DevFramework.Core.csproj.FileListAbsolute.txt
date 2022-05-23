@@ -1,0 +1,12 @@
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\bin\Debug\netcoreapp3.1\DevFramework.Core.deps.json
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\bin\Debug\netcoreapp3.1\DevFramework.Core.runtimeconfig.json
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\bin\Debug\netcoreapp3.1\DevFramework.Core.runtimeconfig.dev.json
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\bin\Debug\netcoreapp3.1\DevFramework.Core.dll
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\bin\Debug\netcoreapp3.1\DevFramework.Core.pdb
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\obj\Debug\netcoreapp3.1\DevFramework.Core.csprojAssemblyReference.cache
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\obj\Debug\netcoreapp3.1\DevFramework.Core.AssemblyInfoInputs.cache
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\obj\Debug\netcoreapp3.1\DevFramework.Core.AssemblyInfo.cs
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\obj\Debug\netcoreapp3.1\DevFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\obj\Debug\netcoreapp3.1\DevFramework.Core.dll
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\obj\Debug\netcoreapp3.1\DevFramework.Core.pdb
+C:\Users\abaydar\source\repos\DevFramework\DevFramework.Core\obj\Debug\netcoreapp3.1\DevFramework.Core.genruntimeconfig.cache
